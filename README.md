@@ -1,7 +1,4 @@
 # Pizza-Sales-Analysis-in-Power-BI
-I have created an interactive Power BI dashboard that analyzes pizza sales trends, showcasing top-selling pizzas, peak ordering hours, and overall revenue performance.
-
-* Pizza Sales Analysis*
 
 **This repository contains a Power BI dashboard that analyzes pizza sales data. The purpose of this analysis is to identify top-selling pizzas, determine the best-selling category, uncover trends in order behavior, and present summary statistics.**
 
